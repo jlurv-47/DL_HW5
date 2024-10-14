@@ -1,0 +1,7 @@
+datasets==3.0.1
+matplotlib==3.9.2
+PyYAML==6.0.2
+sentence_transformers==3.2.0
+tensorflow==2.17.0
+tensorflow_intel==2.17.0
+tqdm==4.66.5

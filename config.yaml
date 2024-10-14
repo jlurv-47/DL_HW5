@@ -1,0 +1,10 @@
+architecture:
+  embedding_dim: 384
+  n_classes: 4
+  hidden_layers: 0
+training:
+  batch_size: 128
+  n_iters: 100
+optimizer:
+  alpha: 1e-3
+  lambda: 1e-4
